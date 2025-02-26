@@ -47,18 +47,5 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
     ```
 5.  **Open in Browser:** Visit `http://localhost:5173/` in your browser.
 
-**Attempting a One-Command Installation (Highly Experimental, Limited Support):**
 
-**WARNING: This is an experimental approach. It relies on the user having `curl` and `bash` available (common on Linux/macOS, less so on Windows). It may not work reliably on all systems.**
-
-1.  **Run the following command in your terminal:**
-
-    ```bash
-    bash <(curl -s [https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh](https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh))
-    ```
-**Important Notes:**
-
-* **Windows Users:** This one-command approach is unlikely to work reliably on Windows. Please follow the "Manual Installation" instructions.
-* **Dependency Issues:** This script assumes you have Git, Node.js, and npm already installed and properly configured. If not, the installation will fail.
-* **Security:** Be cautious when running scripts downloaded from the internet. Always review the code before executing it.
-* **Reliability:** The manual installation is always the most reliable way to install StellarWave.
+thanks for using this Theme

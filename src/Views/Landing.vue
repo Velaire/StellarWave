@@ -1,6 +1,6 @@
 <template>
     <div class="min-h-screen bg-black">
-        <!-- Enhanced Background Elements -->
+
         <div class="fixed inset-0 overflow-hidden">
             <!-- Primary gradient background -->
             <div class="absolute inset-0 bg-gradient-to-br from-black via-darkPurple to-deepPurple opacity-80"></div>
@@ -12,19 +12,19 @@
             <div class="absolute bottom-1/3 right-1/4 w-64 h-64 rounded-full bg-gradient-to-r from-deepPurple to-midPurple blur-3xl opacity-15 animate-pulse"
                 style="animation-delay: 1s;"></div>
 
-            <!-- Star field effect -->
+
             <div class="absolute inset-0 bg-[radial-gradient(ellipse_at_center,rgba(255,255,255,0.15)_1px,transparent_1px)] bg-fixed"
                 style="background-size: 20px 20px;"></div>
         </div>
 
-        <!-- Glass morphism overlay for depth -->
+        >
         <div class="fixed inset-0 backdrop-blur-sm bg-gradient-to-b from-black/10 to-deepPurple/10 z-0"></div>
 
         <!-- Content container -->
         <div class="relative z-10">
             <Header />
 
-            <!-- Hero Section - Enhanced with improved shadows and lighting -->
+
             <section
                 class="flex flex-col md:flex-row items-center p-6 md:p-12 mt-24 bg-dark/30 backdrop-filter backdrop-blur-sm">
                 <div class="w-full md:w-1/2 flex justify-center">
@@ -49,7 +49,7 @@
                 <Faqs />
             </section>
 
-            <!-- CTA Section for Mobile -->
+
             <section class="p-6 py-12 bg-gradient-to-r from-deepPurple to-darkPurple text-center block md:hidden">
                 <h2 class="text-2xl font-bold mb-4 text-white">Unlock the Source Code!</h2>
                 <p class="text-purple-200 mb-6">Discover a universe of possibilities today.</p>
@@ -57,7 +57,7 @@
             </section>
 
 
-            <!-- Footer - Enhanced with gradient border -->
+
             <footer
                 class="p-6 text-center text-purple-300 border-t border-purple-900/30 bg-black/80 backdrop-filter backdrop-blur-sm">
                 <div class="mb-4">

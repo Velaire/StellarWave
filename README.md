@@ -54,7 +54,7 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
 1.  **Run the following command in your terminal:**
 
     ```bash
-    bash <(curl -s [https://raw.githubusercontent.com/Velaire/StellarWave/refs/heads/main/install.sh](https://www.google.com/search?q=https://raw.githubusercontent.com/Velaire/StellarWave/refs/heads/main/install.sh))
+    bash <(curl -s [https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh](https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh))
     ```
 
 **Important Notes:**
@@ -63,56 +63,3 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
 * **Dependency Issues:** This script assumes you have Git, Node.js, and npm already installed and properly configured. If not, the installation will fail.
 * **Security:** Be cautious when running scripts downloaded from the internet. Always review the code before executing it.
 * **Reliability:** The manual installation is always the most reliable way to install StellarWave.
-
-**2. `install.sh` (The Script):**
-
-```bash
-#!/bin/bash
-
-# Clone the repository
-git clone [https://github.com/Velaire/StellarWave.git](https://github.com/Velaire/StellarWave.git)
-
-# Navigate to the project directory
-cd StellarWave
-
-# Install dependencies
-npm install
-
-# Run the development server
-npm run dev
-
-echo "StellarWave installed successfully! You can view it at http://localhost:5173/"
-# 🌌 StellarWave Theme 🚀
-
-[![GitHub Repo stars](https://img.shields.io/github/stars/Velaire/StellarWave?style=social)](https://github.com/Velaire/StellarWave/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/Velaire/StellarWave?style=social)](https://github.com/Velaire/StellarWave/network/members)
-
-Dive into the cosmos of modern web development with **StellarWave**, a sleek and dynamic theme built with Vue 3 and Tailwind CSS 3. 🌠 Experience the fusion of stunning visuals and cutting-edge performance, designed to elevate your web projects to new heights!
-
-![StellarWave Preview](night-imr-purpl.jfif)
-
-## ✨ Features
-
-* **🌌 Cosmic Visuals:** Mesmerizing gradient backgrounds, animated orbs, and a star field effect create an immersive user experience.
-* **🚀 High Performance:** Built with Vue 3 and Tailwind CSS 3 for optimal speed and efficiency.
-* **📱 Responsive Design:** Seamlessly adapts to any screen size, ensuring a stellar experience on all devices.
-* **🎨 Customization:** Easily customize the theme to match your project's unique style with Tailwind's utility-first approach.
-* **🔮 Glassmorphism Effects:** Adds depth and sophistication with subtle glass-like overlays.
-* **✨ Animated Transitions:** Smooth animations for a polished and engaging user interface.
-* **📄 Well-Structured Components:** Clean and organized code for easy maintenance and development.
-* **🆓 Open Source:** Completely free and open-source, empowering developers to create amazing projects.
-
-## 📦 Installation
-
-Get started with StellarWave in just one command! ⚡
-
-```bash
-# Clone the repository
-git clone [https://github.com/Velaire/StellarWave.git](https://github.com/Velaire/StellarWave.git)
-cd StellarWave
-
-# Install dependencies
-npm install
-
-# Run development server
-npm run dev

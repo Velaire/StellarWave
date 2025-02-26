@@ -53,9 +53,9 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
 
 1.  **Run the following command in your terminal:**
 
-    ```bash <(curl -s https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh)
+    ```bash
+    bash <(curl -s [https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh](https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh))
     ```
-
 **Important Notes:**
 
 * **Windows Users:** This one-command approach is unlikely to work reliably on Windows. Please follow the "Manual Installation" instructions.

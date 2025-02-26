@@ -31,7 +31,7 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
     * **ZIP:** Click the green "Code" button on the GitHub repository and select "Download ZIP". Extract the archive.
     * **Clone:**
         ```bash
-        git clone [https://github.com/Velaire/StellarWave.git](https://github.com/Velaire/StellarWave.git)
+        git clone https://github.com/Velaire/StellarWave.git
         ```
 2.  **Navigate to the Project Directory:**
     ```bash

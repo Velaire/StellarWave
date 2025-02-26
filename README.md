@@ -53,8 +53,7 @@ Dive into the cosmos of modern web development with **StellarWave**, a sleek and
 
 1.  **Run the following command in your terminal:**
 
-    ```bash
-    bash <(curl -s [https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh](https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh))
+    ```bash <(curl -s https://raw.githubusercontent.com/Velaire/StellarWave/main/install.sh)
     ```
 
 **Important Notes:**
